@@ -8,3 +8,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Added inline documentation for core functions
+
+## 2026-03-23
+- Tidied up project structure
+- Wrote notes on upcoming feature design
+- Updated CI cache strategy
